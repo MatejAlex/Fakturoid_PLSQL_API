@@ -24,3 +24,5 @@ This code is derived from other project
 <li>L0_FAKTUROID_EXPENSES_INTEGRATION - temp table for expenses</li>
 <li>L0_FAKTUROID_INVOICES - temp table for invoices</li>
 <li>L0_FAKTUROID_INVOICES_INTEGRATION - temp table for invoices</li>
+
+Would you have any questions/problems feel free to contact me at matejalexander@gmail.com
